@@ -1,0 +1,7 @@
+.card_food {
+  transition: transform 0.3s ease;
+}
+
+.card_food:hover {
+  transform: scale(1.1);
+}
